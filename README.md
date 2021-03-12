@@ -10,3 +10,5 @@ This Dockerfile sets up a Linux development environment for building ChordPro fr
 3. Build ChordPro
     - `cd` into `/chordpro-R0.978/pp/linux`
     - Run `pp --output=chordpro @chordpro.pp ../../script/chordpro.pl`
+
+You can find a detailed explanation of the Dockerfile at https://dayyan.dev/building-chordpro-from-source
